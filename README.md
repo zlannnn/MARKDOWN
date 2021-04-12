@@ -79,5 +79,6 @@ ODE和近几年大热的DNN冥冥之中有着千丝万缕的联系。像ResNet, 
 二阶方法对RepVGG是有提升的，但更高阶就没有了。说明NN中的高阶堆叠还是依赖非线性的。这和一个block含有几层layer比较好的结果类似，2-3层比较理想，多了少了都会降。
 
 我们的预印本： https://arxiv.org/pdf/2103.15244.pdf
+
 [1] https://arxiv.org/pdf/1806.07366.pdf  NODEs链接
 [2] https://arxiv.org/pdf/1710.10121.pdf  LM-ResNet链接
