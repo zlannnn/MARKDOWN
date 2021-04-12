@@ -81,4 +81,5 @@ ODE和近几年大热的DNN冥冥之中有着千丝万缕的联系。像ResNet, 
 我们的预印本： https://arxiv.org/pdf/2103.15244.pdf
 
 [1] https://arxiv.org/pdf/1806.07366.pdf  NODEs链接
+
 [2] https://arxiv.org/pdf/1710.10121.pdf  LM-ResNet链接
