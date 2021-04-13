@@ -44,7 +44,7 @@ ODE和近几年大热的DNN冥冥之中有着千丝万缕的联系。像ResNet, 
 ![image](https://user-images.githubusercontent.com/15451867/114336096-2ea01500-9b89-11eb-822b-53acdefc1abe.png)
 以ResNet-50为例，如采用VGG风格的2层3x3设计。标准ResNet也就是欧拉前向法，就应当是堆叠24次。Res-50(2+2x24)。若采用二阶办法，则只堆叠12次来公平对比，为2+4x12。
 
-![image](https://user-images.githubusercontent.com/15451867/114336107-35c72300-9b89-11eb-8a85-27ecfdd3bdd4.png)
+![RK4](https://user-images.githubusercontent.com/15451867/114586960-272f5780-9cc0-11eb-9c63-ae903f8f02f4.jpg)
 
 若为四阶，则是2+8x6。 如此一来，高阶办法的弊端就得到了极大的缓解。而即便在这种情况下，这种堆叠方式同样可以带来显著的提升。
 
